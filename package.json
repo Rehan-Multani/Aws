@@ -1,0 +1,23 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rehan-Multani/Aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rehan-Multani/Aws/issues"
+  },
+  "homepage": "https://github.com/Rehan-Multani/Aws#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
