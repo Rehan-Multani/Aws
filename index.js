@@ -16,7 +16,7 @@ const users = [
 // ================= ROUTES =================
 
 // Health check
-app.get("/a", (req, res) => {
+app.get("/aa", (req, res) => {
   res.json({
     success: true,
     message: "Dummy API is running 🚀",
