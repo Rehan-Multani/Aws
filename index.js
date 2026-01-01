@@ -11,6 +11,11 @@ app.use(express.json());
 const users = [
   { id: 1, name: "Rehan", role: "Admin" },
   { id: 2, name: "Aman", role: "User" },
+  { id: 3, name: "Sana", role: "User" },
+  { id: 4, name: "Riya", role: "User" },
+  { id: 5, name: "Rahul", role: "User" },
+  { id: 6, name: "Priya", role: "User" },
+  { id: 7, name: "Karan", role: "User" },
 ];
 
 // ================= ROUTES =================
